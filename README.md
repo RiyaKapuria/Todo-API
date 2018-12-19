@@ -64,7 +64,7 @@ https://afternoon-dusk-30640.herokuapp.com/
 You can run and check the app in Postman by using following comments:
 
 
-GET https://afternoon-dusk-30640.herokuapp.com/todos    (header = x-auth
+GET https://afternoon-dusk-30640.herokuapp.com/todos    (header = x-auth)
 
 
 GET https://afternoon-dusk-30640.herokuapp.com/todos/:id   (:id = your_doc_existing_id, header = x-auth)
